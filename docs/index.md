@@ -1,4 +1,4 @@
-# Corre electrónico
+# Email Empiria Lab
 
 Utilizamos el servidor de correo suizo Migadu. Es posible acceder al correo través de la plataforma online: [https://webmail.migadu.com](https://webmail.migadu.com).
 
