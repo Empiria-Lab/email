@@ -1,2 +1,2 @@
-# signatures
-Email signatures
+# email
+Empiria Lab email
