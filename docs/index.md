@@ -6,9 +6,9 @@ También es posible configurarlo en distintos clientes para computadores y móvi
 
 [Thunderbird](https://www.thunderbird.net/) es particularmente recomendable.
 
-Para soporte con el correo electrónico y creación de cuentas adicionales, por favor escribir a [soporte@empirialab.cl](mailto:soporte@empirialab.cl). Las cuentas que aparecen en [https://empirialab.cl/equipo](https://empirialab.cl/equipo) y que no se encuentran listadas en este repositorio, se encuentran redireccionadas a la cailla de soporte.
+Para soporte con el correo electrónico y creación de cuentas adicionales, por favor escribir a [soporte@empirialab.cl](mailto:soporte@empirialab.cl). Las cuentas que aparecen en [https://empirialab.cl/equipo](https://empirialab.cl/equipo) y que no se encuentran listadas en este repositorio, se encuentran redireccionadas a la casilla de soporte.
 
-> Migadu ofrece un mayor control sobre los filtros de SPAM. Si están recibiendo ese tipo de mensajes de una cuenta específica, por favor, repórtenlos a [soporte@empirialab.cl](mailto:soporte@empirialab.cl). No es necesario reenviar el mensaje, solo el correo que les está enviando SPAM.
+Migadu ofrece un mayor control sobre los filtros de SPAM. Si están recibiendo ese tipo de mensajes de una cuenta específica, por favor, repórtenlos a [soporte@empirialab.cl](mailto:soporte@empirialab.cl). No es necesario reenviar el mensaje, solo indicar el correo que les está enviando SPAM.
 
 # Firmas de correo
 
