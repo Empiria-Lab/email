@@ -1,10 +1,8 @@
 # Email Empiria Lab
 
-Utilizamos el servidor de correo suizo Migadu. Es posible acceder al correo través de la **plataforma online**: [https://webmail.migadu.com](https://webmail.migadu.com).
+Utilizamos el servidor de correo suizo Migadu. Es posible acceder al correo través de la **plataforma online [https://webmail.migadu.com](https://webmail.migadu.com)**.
 
-También es posible configurarlo en distintos clientes para computadores y móviles: [https://migadu.com/clients/index.html](https://migadu.com/clients/index.html). 
-
-[Thunderbird](https://www.thunderbird.net/) es particularmente recomendable.
+También es posible configurarlo en distintos clientes para computadores y móviles: [https://migadu.com/clients/index.html](https://migadu.com/clients/index.html). **Recomendamos encarecidamente esta opción en lugar de la plataforma online**. [Thunderbird](https://www.thunderbird.net/) es particularmente recomendable.
 
 Para soporte con el correo electrónico y creación de cuentas adicionales, por favor escribir a [soporte@empirialab.cl](mailto:soporte@empirialab.cl). Las cuentas que aparecen en [https://empirialab.cl/equipo](https://empirialab.cl/equipo) y que no se encuentran listadas en este repositorio, se encuentran redireccionadas a la casilla de soporte.
 
