@@ -14,7 +14,7 @@ Se puede consultar el **status del correo en [https://status.migadu.com](https:/
 
 Las firmas se pueden copiar y pegar, el logo está optimizado para email. También es posible acceder al código HTML en el [repositorio de GitHub](https://github.com/Empiria-Lab/email/tree/main/docs/signatures).
 
-El logo se puede alterar para [Fiestas Patrias](https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_18.png) y [Navidad]https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_Navidad.png.
+El logo se puede alterar para [Fiestas Patrias](https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_18.png) y [Navidad](https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_Navidad.png).
 
 ## Directoras
 
