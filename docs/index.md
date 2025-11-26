@@ -10,15 +10,9 @@ Migadu ofrece un mayor control sobre los filtros de SPAM. Si están recibiendo e
 
 Se puede consultar el **status del correo en [https://status.migadu.com](https://status.migadu.com)**.
 
-# Festividades
+# Logo para festividades
 
-## Fiestas Patrias
-
-<img src="https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_18.png" width="150" style="display:block;border:0;outline:none;text-decoration:none;width:150px;max-width:150px;height:auto;" alt="Empiria Lab">
-
-## Navidad
-
-<img src="https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_Navidad.png" width="150" style="display:block;border:0;outline:none;text-decoration:none;width:150px;max-width:150px;height:auto;" alt="Empiria Lab">
+<img src="https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_18.png" width="150" style="display:block;border:0;outline:none;text-decoration:none;width:150px;max-width:150px;height:auto;" alt="Empiria Lab"> <img src="https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria_Navidad.png" width="150" style="display:block;border:0;outline:none;text-decoration:none;width:150px;max-width:150px;height:auto;" alt="Empiria Lab">
 
 # Firmas de correo
 
