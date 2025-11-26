@@ -10,6 +10,10 @@ Migadu ofrece un mayor control sobre los filtros de SPAM. Si están recibiendo e
 
 Se puede consultar el **status del correo en [https://status.migadu.com](https://status.migadu.com)**.
 
+# Festividades
+
+<img src="https://raw.githubusercontent.com/Empiria-Lab/signatures/refs/heads/main/docs/images/Empiria.png" width="150" style="display:block;border:0;outline:none;text-decoration:none;width:150px;max-width:150px;height:auto;" alt="Empiria Lab">
+
 # Firmas de correo
 
 Las firmas se pueden copiar y pegar, el logo está optimizado para email. También es posible acceder al código HTML en el [repositorio de GitHub](https://github.com/Empiria-Lab/email/tree/main/docs/signatures).
