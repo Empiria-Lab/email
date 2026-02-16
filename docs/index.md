@@ -50,4 +50,6 @@ El logo se puede alterar para [Fiestas Patrias](https://raw.githubusercontent.co
 
 <iframe src="https://empiria-lab.github.io/email/signatures/npereira.html" style="width:100%;height:200px;border:0;"></iframe>
 
+<iframe src="https://empiria-lab.github.io/email/signatures/vcampillay.html" style="width:100%;height:200px;border:0;"></iframe>
+
 <iframe src="https://empiria-lab.github.io/email/signatures/josemiguelgarcia.html" style="width:100%;height:200px;border:0;"></iframe>
