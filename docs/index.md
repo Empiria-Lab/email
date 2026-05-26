@@ -44,7 +44,7 @@ El logo se puede alterar para [Fiestas Patrias](https://raw.githubusercontent.co
 
 * * *
 
-## Colaboradores
+## Consultores y colaboradores
 
 * * *
 
