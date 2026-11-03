@@ -3,3 +3,6 @@ description: Lineamientos de marca de Empiria Lab Consultores
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-tactile
+# The guide moved to https://email.empirialab.cl; every page redirects there.
+plugins:
+  - jekyll-redirect-from
